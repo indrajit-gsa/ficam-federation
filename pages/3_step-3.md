@@ -1,7 +1,7 @@
 ---
-layout: page_collection
-title: Step 3 - Understand the RP Environment
-permalink: 3_step-3
+layout: default
+title: Understand the RP Environment
+permalink: /3_step-3/
 ---
 <script>
 $(function() {

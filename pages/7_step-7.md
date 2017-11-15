@@ -1,7 +1,7 @@
 ---
-layout: page_collection
-title: Step 7 - Evaluate Existing Infrastructure  
-permalink: 7_step-7/
+layout: default
+title: Evaluate Existing Infrastructure  
+permalink: /7_step-7/
 ---
 <script>
 $(function() {

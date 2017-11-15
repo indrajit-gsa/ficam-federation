@@ -1,7 +1,7 @@
 ---
-layout: page_collection
-title: Step 4 - Determine Applicability to Security and Privacy Controls
-permalink: 4_step-4
+layout: default
+title: Determine Applicability to Security and Privacy Controls
+permalink: /4_step-4/
 ---
 <script>
 $(function() {

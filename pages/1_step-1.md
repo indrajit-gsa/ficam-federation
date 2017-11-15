@@ -1,6 +1,6 @@
 ---
-layout: page_collection
-title: Step 1 - Establish Federation Governance
+layout: default
+title: Establish Federation Governance
 permalink: /1_step-1/
 ---
 <script>

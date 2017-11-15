@@ -1,7 +1,7 @@
 ---
-layout: page_collection
-title: Step 9 - Integrate with CSP
-permalink: 9_step-9/
+layout: default
+title: Integrate with CSP
+permalink: /9_step-9/
 ---
 <script>
 $(function() {

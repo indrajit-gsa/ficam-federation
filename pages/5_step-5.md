@@ -1,7 +1,7 @@
 ---
-layout: page_collection
-title: Step 5 - Determine Acceptable Credentials
-permalink: 5_step-5
+layout: default
+title: Determine Acceptable Credentials
+permalink: /5_step-5/
 ---
 <script>
 $(function() {
