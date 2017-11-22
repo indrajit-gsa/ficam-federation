@@ -1,5 +1,6 @@
 ---
 layout: default
+navtitle: Solution Architecture
 title: Evaluate Optimal Solution Architecture 
 permalink: /8_step-8/
 ---

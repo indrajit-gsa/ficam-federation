@@ -1,5 +1,6 @@
 ---
 layout: default
+navtitle: Identity Provider(s)
 title: Partner with an Identity Provider(s)
 permalink: /6_step-6/
 ---

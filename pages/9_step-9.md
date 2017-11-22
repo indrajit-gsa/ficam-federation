@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Integrate with CSP
+navtitle: CSP
+title: Integrate with Credential Service Provider
 permalink: /9_step-9/
 ---
 <script>

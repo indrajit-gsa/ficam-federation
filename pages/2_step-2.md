@@ -1,5 +1,6 @@
 ---
 layout: default
+navtitle: Business Considerations
 title: Identify Business Considerations
 permalink: /2_step-2/
 ---

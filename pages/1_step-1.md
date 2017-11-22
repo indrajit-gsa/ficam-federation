@@ -1,5 +1,6 @@
 ---
 layout: default
+navtitle: Federation Governance
 title: Establish Federation Governance
 permalink: /1_step-1/
 ---

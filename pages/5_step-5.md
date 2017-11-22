@@ -1,5 +1,6 @@
 ---
 layout: default
+navtitle: Credentials
 title: Determine Acceptable Credentials
 permalink: /5_step-5/
 ---

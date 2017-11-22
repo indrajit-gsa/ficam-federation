@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Understand the RP Environment
+navtitle: Relying Party
+title: Understand the Relying Party Environment
 permalink: /3_step-3/
 ---
 <script>

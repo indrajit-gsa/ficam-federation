@@ -1,5 +1,6 @@
 ---
 layout: default
+navtitle: Infrastructure
 title: Evaluate Existing Infrastructure  
 permalink: /7_step-7/
 ---
