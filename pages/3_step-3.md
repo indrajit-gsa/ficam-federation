@@ -4,7 +4,6 @@ title: Understand the Relying Party Environment
 permalink: /3_step-3/
 ---
 
-------------------------------------------------------------------
 
 Understanding the RP environment prior to enabling federation is another aspect for federation planning. It’s necessary for the RP to determine if there will be any impacts to assurance level or existing privacy considerations through externalizing identity proofing and credential lifecycle management. 
 

@@ -4,8 +4,6 @@ title: Evaluate Existing Infrastructure
 permalink: /7_step-7/
 ---
 
---------------------------------------
-
 As each RP looks to accept third-party credentials, the requirements inherent to each application may vary, which in turn may affect the architecture that it chooses to use. An RP needs to look to its agency to determine if a complete or partial ICAM solution already exists. The ICAM team or Program Management Office (PMO) can provide the RP with guidance on the agency’s policies and methodology for ICAM.
 
 For example, if the agency has a complete ICAM solution and application owners are required to integrate with, the ICAM PMO will be able to provide details to the RP on how this integration will work and what the RP needs to do. If no ICAM solution exists, the PMO may be able to provide the RP with agency policies and standards in addition to resources to assist the RP with planning and design. The RP should work with the ICAM PMO or appropriate governance body to complete the actions described in the figure below.
