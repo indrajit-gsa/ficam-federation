@@ -56,48 +56,44 @@ navigation:
   url: ''
   internal: true
   coll: false
-- text: Establish Federation Governance
-  url: 1_step-1
+- text: Federation Methodology
+  url: federation_methodology
   internal: true
   coll: false
-- text: Identify Business Considerations
-  url: 2_step-2
+- text: Identify User Population
+  url: user_population
   internal: true
   coll: false
-- text: Understand the RP Environment
-  url: 3_step-3
+- text: Identity Management
+  url: identity_management
   internal: true
   coll: false
-- text: Determine Applicability to Security and Privacy Controls
-  url: 4_step-4
+- text: Credential Service Provider
+  url: credential_service_provider
   internal: true
   coll: false
-- text: Determine Acceptable Credentials
-  url: 5_step-5
+- text: Relying Party
+  url: relying_party
   internal: true
   coll: false
-- text: Partner with an Identity Provider(s)
-  url: 6_step-6
+- text: Attribute Provider 
+  url: attribute_provider
   internal: true
   coll: false
-- text: Evaluate Existing Infrastructure 
-  url: 7_step-7
+- text: Trust Framework
+  url: trust_framework
   internal: true
   coll: false
-- text: Evaluate Optimal Solution Architecture
-  url: 8_step-8
+- text: Federation Architecture
+  url: federation_architecture
   internal: true
   coll: false
-- text: Integrate with CSP
-  url: 9_step-9
+- text: Federation Implementation
+  url: federation_implementation
   internal: true
   coll: false
-- text: Create and Manage User Accounts
-  url: 10_step-10
-  internal: true
-  coll: false
-- text: Account Management
-  url: 11_step-11
+- text: Use Cases
+  url: user_cases
   internal: true
   coll: false
 - text: Contribute
