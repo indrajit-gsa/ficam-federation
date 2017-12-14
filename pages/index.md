@@ -10,7 +10,7 @@ This playbook is intended for ICAM Program Managers and other business owners wh
 
 This playbook was created using updated and migrated content that previously was found in the FICAM Roadmap and Implementation Guidance v2.0. We hope that the new format encourages you and your agency to contribute to additional content to support the access control management across the Federal government.
 
-The FICAM Architecture provides a high-level overview of identity management and a description of the services that deliver access management capabilities. We recommend that you visit the <a href="http://gsa.github.io/ficam-arch/" target="_blank"> FICAM Architecture</a> site to gain a basic understanding of access management and its role in broader federal Identity, Credential, and Access Management (ICAM).
+The FICAM Architecture provides a high-level overview of identity management and a description of the services that deliver access management capabilities. We recommend that you visit the <a href="https://arch.idmanagement.gov/" target="_blank"> FICAM Architecture</a> site to gain a basic understanding of access management and its role in broader federal Identity, Credential, and Access Management (ICAM).
 
 We look forward to your use and contribution to this playbook. Please visit our <a href="/ficam-federation/contribute/" target =" _blank"> Contribute page </a> to learn how to post questions and contribute content.
 
