@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: Federation Introduction
 permalink: /
 ---
 
