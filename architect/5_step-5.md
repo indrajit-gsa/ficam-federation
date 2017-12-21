@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Determine Acceptable Credentials
-permalink: /5_step-5/
+permalink: architect/5_step-5/
 ---
 
 

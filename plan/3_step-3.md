@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Understand the Relying Party Environment
-permalink: /3_step-3/
+permalink: plan/3_step-3/
 ---
 
 

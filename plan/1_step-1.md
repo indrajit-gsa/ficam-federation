@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Federation Methodology
-permalink: /federation_methodology/
+title: Establish Federation Governance
+permalink: plan/1_step-1/
 ---
 
 Agencies engaging in federation outside of the Federal Government should evaluate the need for added governance to solidify the foundational level of trust, provided by the Federal Trust Framework, and establish accountability and liability with the third parties involved.
