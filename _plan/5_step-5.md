@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Determine Acceptable Credentials
+title: Know Your Users
 permalink: plan/5_step-5/
 ---
 
