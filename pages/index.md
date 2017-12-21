@@ -1,6 +1,7 @@
 ---
 layout: default
-title: What is Federation
+navtitle: What is Federation
+title: What is Federation?
 permalink: /
 ---
 
@@ -8,7 +9,11 @@ Identity federation, commonly referred to as federation, is a term used to descr
 
 This playbook is intended for ICAM Program Managers and other business owners who may be looking to understand the topic of Federation better and various planning and design items they should consider before beginning solution design and implementation. This playbook also contains guidance for implementers and engineers who are looking for guidance around the technical implementation of federation at their agencies.
 
+# Why Federate?
+
 This playbook was created using updated and migrated content that previously was found in the FICAM Roadmap and Implementation Guidance v2.0. We hope that the new format encourages you and your agency to contribute to additional content to support the access control management across the Federal government.
+
+# Who Needs Federation?
 
 The FICAM Architecture provides a high-level overview of identity management and a description of the services that deliver access management capabilities. We recommend that you visit the <a href="https://arch.idmanagement.gov/" target="_blank"> FICAM Architecture</a> site to gain a basic understanding of access management and its role in broader federal Identity, Credential, and Access Management (ICAM).
 

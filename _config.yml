@@ -56,20 +56,12 @@ navigation:
   url: ''
   internal: true
   coll: false
-- text: Why Federate
-  url: why_federate
-  internal: true
-  coll: false
-- text: Who Needs Federation
-  url: who_needs_federation
-  internal: true
-  coll: false
 - text: How Does Federation Work
   url: how_does_federation_work
   internal: true
   coll: false
 - text: How To Plan
-  url: who_needs_federation
+  url: federation_plan
   internal: true
   coll: true
   collname: plan
@@ -84,7 +76,7 @@ navigation:
   coll: true
   collname: implement
 - text: How To Maintain
-  url: federation_implementation
+  url: federation_maintain
   internal: true
   coll: true
   collname: maintain
@@ -107,15 +99,15 @@ collections:
     output: true
   architect:
     label: "How to Architect"
-    permalink: /plan/:path/
+    permalink: /architect/:path/
     output: true
   implement:
     label: "How to Implement"
-    permalink: /plan/:path/
+    permalink: /implement/:path/
     output: true
   maintain:
     label: "How to Maintain"
-    permalink: /plan/:path/
+    permalink: /maintain/:path/
     output: true
 # Custom site configuration
 lang: en
