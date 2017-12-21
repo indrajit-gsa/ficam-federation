@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Create and Manage User Accounts
-permalink: /10_step-10/
+permalink: implement/3_step-10/
 ---
 
 

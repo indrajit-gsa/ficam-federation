@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Establish Federation Governance
-permalink: implement/1_step-1/
+title: Periodic Review
+permalink: maintain/3_step-1/
 ---
 
 Agencies engaging in federation outside of the Federal Government should evaluate the need for added governance to solidify the foundational level of trust, provided by the Federal Trust Framework, and establish accountability and liability with the third parties involved.
