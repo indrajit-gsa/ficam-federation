@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Understand the Relying Party Environment
+title: Understand the Service Provider
 permalink: plan/3_step-3/
 ---
 
 
-Understanding the RP environment prior to enabling federation is another aspect for federation planning. It’s necessary for the RP to determine if there will be any impacts to assurance level or existing privacy considerations through externalizing identity proofing and credential lifecycle management. 
+Understanding the Service Provider (SP) environment prior to enabling federation is another aspect for federation planning. It’s necessary for the SP to determine if there will be any impacts to assurance level or existing privacy considerations through externalizing identity proofing and credential lifecycle management. 
 
 ## <span style="color: #0C5C89">**Checklist**</span>
 

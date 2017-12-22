@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Know Your Users
-permalink: plan/5_step-5/
+permalink: plan/2_know-your-users/
 ---
 
 
