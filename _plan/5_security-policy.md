@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Determine Applicability to Security and Privacy Controls
-permalink: plan/4_step-4/
+permalink: plan/5_security-privacy-controls/
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Understand the Service Provider
-permalink: plan/3_step-3/
+permalink: plan/3_service-provider/
 ---
 
 
