@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Establish Federation Governance
-permalink: plan/6_step-1/
+title: Select Identity Provider
+permalink: plan/5_identity_provider/
 ---
 
 Agencies engaging in federation outside of the Federal Government should evaluate the need for added governance to solidify the foundational level of trust, provided by the Federal Trust Framework, and establish accountability and liability with the third parties involved.
