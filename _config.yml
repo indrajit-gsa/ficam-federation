@@ -56,32 +56,37 @@ navigation:
   url: ''
   internal: true
   coll: false
-- text: How Does Federation Work
-  url: how_does_federation_work
+#- text: How Does Federation Work
+#  url: how_does_federation_work
+#  internal: true
+#  coll: false
+- text: Technology
+  url: technology/
   internal: true
-  coll: false
-- text: How To Plan
-  url: federation_plan
+  coll: true
+  collname: technology
+- text: Plan
+  url: plan/
   internal: true
   coll: true
   collname: plan
-- text: How to Architect
-  url: federation_architecture
+- text: Design
+  url: design/
   internal: true
   coll: true
-  collname: architect
-- text: How To Implement
-  url: federation_implementation
+  collname: design
+- text: Build
+  url: build/
   internal: true
   coll: true
-  collname: implement
-- text: How To Maintain
-  url: federation_maintain
+  collname: build
+- text: Maintain
+  url: maintain/
   internal: true
   coll: true
   collname: maintain
 - text: Use Cases
-  url: user_cases
+  url: use_cases
   internal: true
   coll: false
 - text: Contribute
@@ -94,20 +99,24 @@ include:
 
 collections:
   plan:
-    label: "How to Plan"
+    label: "Plan"
     permalink: /plan/:path/
     output: true
-  architect:
-    label: "How to Architect"
-    permalink: /architect/:path/
+  design:
+    label: "Design"
+    permalink: /design/:path/
     output: true
-  implement:
-    label: "How to Implement"
-    permalink: /implement/:path/
+  build:
+    label: "Build"
+    permalink: /build/:path/
     output: true
   maintain:
-    label: "How to Maintain"
+    label: "Maintain"
     permalink: /maintain/:path/
+    output: true
+  technology:
+    label: "Technology"
+    permalink: /technology/:path/
     output: true
 # Custom site configuration
 lang: en

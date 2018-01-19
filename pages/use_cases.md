@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Consider Account Management Scenarios and Patterns 
-permalink: /11_step-11/
+title: Use Cases
+permalink: /use_cases/
 ---
 
 Account management will vary depending on the relationship between the user and the RP. This relationship will define the extent to which the RP will have predetermined information about the user. Five provisioning scenarios that describe these relationships include: 
